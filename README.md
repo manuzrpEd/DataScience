@@ -1,4 +1,4 @@
-# DataScience Challenge - Compensation (salary) Estimation
+# Data Science Challenge - Compensation (salary) Estimation
 
 Data Science Challenge
 
